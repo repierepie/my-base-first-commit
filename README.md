@@ -1,2 +1,6 @@
 # my-base-first-commit
-First contribution for the Base Blockchain
+
+This is my first commit for the **Guild of Base** mission:  
+> "Have at least 1 commit" 
+
+Created by: repierepie 
