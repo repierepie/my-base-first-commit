@@ -1,0 +1,22 @@
+Résumé
+
+Date : 2025-10-25
+Réseau : Base (Layer 2)
+Objectif : Remplir l’exigence « Avoir au moins 1 commit » / participation on-chain.
+
+Ce que j’ai fait
+
+J’ai réalisé une action on-chain minimale sur le réseau Base et enregistré la preuve dans mission-log.md.
+Ce repository sert de preuve de participation et contient un court journal avec les détails de la transaction.
+
+Preuves & Liens
+
+Mission log : mission-log.md
+
+Notes
+
+Ce repository est public afin de permettre la vérification.
+
+Aucune clé sensible/privée n’est stockée ici.
+
+Licence : MIT
